@@ -31,6 +31,8 @@ function makeCalculator() {
 
         return this;
       }
+
+      return this;
     },
 
     operate(callback, number) {
